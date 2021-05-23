@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+body{
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-image: url("https://th.bing.com/th/id/OIP.AOBp3UotobDxajxsjn8MyQHaEL?w=311&h=180&c=7&o=5&dpr=1.5&pid=1.7");
+background-repeat: no-repeat;
+  background-size: cover;
+
+}
+p{
+    font-size: 20px;
+    color: rebeccapurple;
+}
+img{
+    border: 5px solid rebeccapurple;
+}
+h1{
+    color: royalblue;
+    text-decoration: underline;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.877);
+    border-radius: 90px;
+    padding: 20px;
+    margin: 50px;
+  
+}
